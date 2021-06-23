@@ -1,0 +1,7 @@
+---------------------------------
+Weather stats for -RANCHI || 23 Jun21 | 06:32:13:AM
+---------------------------------
+current temperature is : 26.06 deg C
+current weather desc   : haze
+current humidity       : 83 %
+current wind speed     : 3.09 kmph
